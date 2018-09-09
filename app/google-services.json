@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825679015061",
+    "firebase_url": "https://niyokta-3982a.firebaseio.com",
+    "project_id": "niyokta-3982a",
+    "storage_bucket": "niyokta-3982a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825679015061:android:5cf1640d9d76160b",
+        "android_client_info": {
+          "package_name": "com.example.shubham.niyokta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825679015061-qk2ea10m8ehf8p1c4ehmovrljvgtngoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubham.niyokta",
+            "certificate_hash": "4b4859654a171cf55c8c981dd664694d345b91ad"
+          }
+        },
+        {
+          "client_id": "825679015061-hicf1jd4mdcs0ihesmj46neuflc118i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lnfd0g66zBirESUqJ0-Ywl2MS17WajE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825679015061-hicf1jd4mdcs0ihesmj46neuflc118i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
